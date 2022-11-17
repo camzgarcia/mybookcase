@@ -14,7 +14,12 @@ O app permite o cadastro de uma estante virtual, contudo é necessário realizar
 
 Usuários
 
-Leitor (usuário comum): 
-- Realiza login e gerencia suas leituras;
-- Cadastra livros e resenhas;
-- atualiza o andamento de suas leituras.
+Redator (administrador): cadastra os livros, insere resenhas e indica lugares de compra. 
+-> Cadastra os livros;
+-> Publicar resenhas;
+-> Cadastrar pontos de venda parceiros.
+
+Leitor (usuário comum): tem acesso ao catálogo de livros, listas e resenhas. Pode buscar livrarias em que vendem a obra indicada. -> Busca livros;
+-> Busca autores;
+-> Busca resenhas;
+-> Busca pontos de venda do livro.
